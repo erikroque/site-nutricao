@@ -1,2 +1,3 @@
 # site-nutricao
-Projeto inicial de site de nutrição
+Projeto inicial de site de nutrição.
+https://erikroque.github.io/site-nutricao/
